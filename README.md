@@ -1,7 +1,5 @@
 # Responsive Landing Page using HTML, CSS & JavaScript
 
-### 🎥 [Watch Project Demo on YouTube](https://youtu.be/RdCJmh_Hi5k)
-
 A modern **responsive landing page** built using **pure HTML, CSS, and JavaScript**, enhanced with smooth animations and scroll effects. This project demonstrates clean UI design, responsive layouts, and basic interactivity **without using any frontend framework**.
 
 ---
@@ -99,7 +97,7 @@ Below is a preview of the responsive landing page UI:
 
 ## 👤 Author
 
-GitHub: [@ananikets18](https://github.com/ananikets18)
+GitHub: [@ananikets18](https://github.com/samijanghori)
 
 ---
 
